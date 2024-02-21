@@ -1,0 +1,6 @@
+# to create the project as a package
+numpy
+pandas
+scipy
+
+# -e .
