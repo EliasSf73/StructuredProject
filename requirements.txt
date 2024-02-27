@@ -1,6 +1,4 @@
-# to create the project as a package
+torch
+torchvision
+matplotlib
 numpy
-pandas
-scipy
-
-# -e .
